@@ -1,0 +1,141 @@
+C:\Project LMS\Login\bin\Debug\net6.0-windows\Login.exe
+C:\Project LMS\Login\bin\Debug\net6.0-windows\Login.deps.json
+C:\Project LMS\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Project LMS\Login\bin\Debug\net6.0-windows\Login.dll
+C:\Project LMS\Login\bin\Debug\net6.0-windows\Login.pdb
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.vbproj.AssemblyReference.cache
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.Form1.resources
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.dll
+C:\Project LMS\Login\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.pdb
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Project LMS\Login\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.Resources.resources
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.Form3.resources
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.Admin.resources
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.Facilitator.resources
+C:\Project LMS\Login\obj\Debug\net6.0-windows\Login.Student_Portal.resources
+C:\Users\Treasure\Desktop\New folder (3)\bin\Debug\net6.0-windows\Login.exe
+C:\Users\Treasure\Desktop\New folder (3)\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\Treasure\Desktop\New folder (3)\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\Treasure\Desktop\New folder (3)\bin\Debug\net6.0-windows\Login.dll
+C:\Users\Treasure\Desktop\New folder (3)\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Login.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Admin.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Login.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Form1.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Resources.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Login.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Portal.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.dll
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Connectivity.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Courses.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Dashboard.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Finances.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Applications.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Course_Tools.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Connectivity.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Formatives.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Modules.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Practicals.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Summatives.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Connectivity.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Grades.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.System_Development.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Libraries.resources
+C:\Users\Treasure\Desktop\New folder (3)\obj\Debug\net6.0-windows\Login.Student_TestAndExams.resources
+C:\Users\Treasure\Documents\New folder (3)\bin\Debug\net6.0-windows\Login.exe
+C:\Users\Treasure\Documents\New folder (3)\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\Treasure\Documents\New folder (3)\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\Treasure\Documents\New folder (3)\bin\Debug\net6.0-windows\Login.dll
+C:\Users\Treasure\Documents\New folder (3)\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.vbproj.AssemblyReference.cache
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Connectivity.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Courses.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Dashboard.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Finances.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Admin_Login.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Admin.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Applications.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Course_Tools.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Connectivity.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Formatives.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Login.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Modules.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Practicals.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator_Summatives.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Facilitator.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Form1.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Resources.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Connectivity.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Grades.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Libraries.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Login.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Student_Portal.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.Student_TestAndExams.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.System_Development.resources
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.dll
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\Treasure\Documents\New folder (3)\obj\Debug\net6.0-windows\ref\Login.dll
+C:\Users\Treasure\Desktop\treasurer\bin\Debug\net6.0-windows\Login.exe
+C:\Users\Treasure\Desktop\treasurer\bin\Debug\net6.0-windows\Login.deps.json
+C:\Users\Treasure\Desktop\treasurer\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+C:\Users\Treasure\Desktop\treasurer\bin\Debug\net6.0-windows\Login.dll
+C:\Users\Treasure\Desktop\treasurer\bin\Debug\net6.0-windows\Login.pdb
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.vbproj.AssemblyReference.cache
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Admin_Connectivity.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Admin_Courses.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Admin_Dashboard.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Admin_Finances.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Admin_Login.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Admin.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Applications.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Course_Tools.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Facilitator_Connectivity.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Facilitator_Formatives.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Facilitator_Login.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Facilitator_Modules.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Facilitator_Practicals.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Facilitator_Summatives.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Facilitator.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Form1.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Resources.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Student_Connectivity.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Student_Grades.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Student_Libraries.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Student_Login.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Student_Portal.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.Student_TestAndExams.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.System_Development.resources
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.dll
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\refint\Login.dll
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.pdb
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+C:\Users\Treasure\Desktop\treasurer\obj\Debug\net6.0-windows\ref\Login.dll

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin Connectivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Courses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Finances.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Applications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Course Tools.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facilitator Connectivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facilitator Formatives.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facilitator Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facilitator Modules.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facilitator Practicals.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facilitator Summatives.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facilitator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Connectivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Grades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Libraries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student Portal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student TestAndExams.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="System Development.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
